@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Nanabuadu/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/Nanabuadu/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Nanabuadu/azure-network-protocols)
+  - [Network File Shares and Permissions](https://github.com/Nanabuadu/azure-network-file-shares)
 
 <h2>🤳Connect with me:</h2>
 
